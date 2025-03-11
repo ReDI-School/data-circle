@@ -3,6 +3,10 @@
 ## Project Overview
 In this project, you will develop machine learning models to predict whether individuals received H1N1 and seasonal flu vaccines based on their demographic information, social factors, beliefs, and behaviors. This project addresses a crucial public health challenge: understanding what factors influence vaccination decisions to improve future vaccination campaigns.
 
+## Competition Link
+[DrivenData - Flu Shot Learning Competition](https://www.drivendata.org/competitions/66/flu-shot-learning/)
+
+
 ## Project Goals
 1. Develop classification models to predict two target variables:
    - Whether a person received the H1N1 vaccine
@@ -80,16 +84,16 @@ The dataset contains 36 columns representing:
 
 ## Evaluation Criteria
 
-### Technical Assessment (70%)
-- Data preprocessing and feature engineering (15%)
-- Model performance (ROC AUC score) (25%)
-- Code quality and documentation (15%)
-- Dashboard functionality and design (15%)
+### Technical Assessment
+- Data preprocessing and feature engineering
+- Model performance (ROC AUC score) 
+- Code quality and documentation 
+- Dashboard functionality and design
 
-### Presentation & Communication (30%)
-- Clear explanation of methodology (10%)
-- Quality of insights derived (10%)
-- Visualization effectiveness (10%)
+### Presentation & Communication 
+- Clear explanation of methodology
+- Quality of insights derived 
+- Visualization effectiveness 
 
 ## Mentoring Structure
 Each team will be assigned 1-2 dedicated volunteers who will provide consistent guidance throughout the project. Your mentors will:
@@ -125,8 +129,6 @@ As per CDC guidelines:
 - Create a more sophisticated interactive dashboard
 - Conduct causal inference analysis on specific features
 
-## Competition Link
-[DrivenData - Flu Shot Learning Competition](https://www.drivendata.org/competitions/66/flu-shot-learning/)
 
 ## Weekly Checkpoints
 
@@ -159,3 +161,7 @@ As per CDC guidelines:
 - Prepare final presentation
 - Complete all documentation
 - Submit final project
+
+## Acknowledgments
+- Data provided by Taarifa and the Tanzania Ministry of Water
+- Project taken from the DrivenData competition
