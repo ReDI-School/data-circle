@@ -96,7 +96,7 @@ The dataset contains 36 columns representing:
 - Visualization effectiveness 
 
 ## Mentoring Structure
-Each team will be assigned 1-2 dedicated volunteers who will provide consistent guidance throughout the project. Your mentors will:
+Volunteers will provide consistent guidance throughout the project. Your mentors will:
 - Provide technical support during weekly sessions
 - Review your code and give specific feedback
 - Help troubleshoot challenges
