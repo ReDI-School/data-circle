@@ -15,7 +15,7 @@ The Data Circle is a project-based learning program for data science and analyti
 - Projects are designed to build your portfolio and practical skills
 
 ## For Volunteers
-- Provide consistent feedback and support to your assigned teams
+- Provide consistent feedback and support to the teams
 - Attend weekly sessions and be available for questions
 
 ## Current Projects
