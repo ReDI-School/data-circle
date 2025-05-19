@@ -104,4 +104,4 @@ In this final sprint, teams will focus on deriving actionable insights from thei
 2. Comprehensive project documentation
 3. Final project report with insights and recommendations
 4. GitHub repository with complete code and documentation
-5. 10-minute final presentation
+5. 5-minute final presentation
