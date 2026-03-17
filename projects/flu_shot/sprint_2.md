@@ -1,5 +1,5 @@
 # Sprint 2: Model Development
-## Week 4–6
+**Week 4–6**
 
 ### Overview
 In this sprint, teams will develop machine learning models to predict both target variables (H1N1 and seasonal flu vaccination). The focus will be on feature engineering, model selection, and optimization.
@@ -15,7 +15,7 @@ Machine learning is used as a tool to support understanding, rather than only fo
 - Logistic Regression: interpretable baseline  
 - Random Forest: capture non-linear relationships  
 - Gradient Boosting: more flexible modelling
-- Any other models would like to try
+- Any other models you would like to try
 
 Optional approaches:  
 
@@ -30,7 +30,7 @@ When building models, consider structuring your workflow to ensure consistency a
 
 3. Evaluate and interpret results
 - Accuracy
-- F1-score  
+- F1-score, Precision, Recall  
 - Confusion Matrix  
 - ROC-AUC 
 

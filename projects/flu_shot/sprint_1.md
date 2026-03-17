@@ -1,5 +1,5 @@
 # Sprint 1: Exploratory Data Analysis
-## Week 1–3 
+**Week 1–3** 
 
 ### Overview
 In this sprint, teams will focus on understanding the dataset, cleaning the data, and preparing it for modeling. The goal is to gain insights into vaccination patterns and identify potentially important features.

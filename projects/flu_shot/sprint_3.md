@@ -1,5 +1,5 @@
 # Sprint 3: Insights & Deployment
-##  Week 7–9
+**Week 7–9**
 
 ### Overview
 In this final sprint, teams will focus on deriving actionable insights from their models, creating an interactive dashboard to present their findings, and preparing their final presentation.
@@ -18,7 +18,7 @@ Use models as tools to extract meaningful insights from the data. This may inclu
 
 Translate your findings into a clear and interactive data product.  
 - Build an interactive dashboard (e.g., Streamlit)  
-- Include key insights, visualizations, and (optional) model outputs  
+- Include key insights, visualizations, and  model outputs (optional) 
 - Use maps where relevant  
 - Focus on clarity, usability, and storytelling
 
